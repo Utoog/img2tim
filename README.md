@@ -9,6 +9,11 @@ This tool converts almost any image file into a PlayStation TIM image file for P
 * Color-key and index-key transparency masking.
 * Basic RGB to color-index image conversion.
 
+## Build
+To compile and install IMG2TIM using GNU Make:
+    $ make
+    $ sudo make install
+
 ## Download
 The latest precompiled Win32 binary of this program can be downloaded here:
 [img2tim_(v0.75).zip](http://lameguy64.github.io/img2tim/img2tim_(v0.75).zip)
