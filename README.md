@@ -11,6 +11,7 @@ This tool converts almost any image file into a PlayStation TIM image file for P
 
 ## Build
 To compile and install IMG2TIM using GNU Make:
+
     $ make
     $ sudo make install
 
